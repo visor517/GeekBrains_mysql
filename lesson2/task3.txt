@@ -1,0 +1,11 @@
+1)
+mysqldump example > D:\GeekBrains\mysql\lesson2\task3_example.sql
+Создаем дамп через командную строку
+
+2)
+mysql> CREATE DATABAS sample
+Создаем новую базу в mysql
+
+3)
+mysql sample < D:\GeekBrains\mysql\lesson2\task3_example.sql
+Загружаем содержимое файла в новую базу через командную строку

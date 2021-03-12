@@ -1,0 +1,1 @@
+mysqldump -w "help_keyword_id < 100" mysql --tables help_keyword > D:\GeekBrains\mysql\lesson2\task4.sql
